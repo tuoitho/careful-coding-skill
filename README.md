@@ -1,6 +1,10 @@
 # Careful Coding Skill
 
 [![skills.sh](https://skills.sh/b/tuoitho/careful-coding-skill)](https://skills.sh/tuoitho/careful-coding-skill)
+[![GitHub stars](https://img.shields.io/github/stars/tuoitho/careful-coding-skill?style=social)](https://github.com/tuoitho/careful-coding-skill/stargazers)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/tuoitho/careful-coding-skill)](https://github.com/tuoitho/careful-coding-skill/commits/main)
+[![Repo size](https://img.shields.io/github/repo-size/tuoitho/careful-coding-skill)](https://github.com/tuoitho/careful-coding-skill)
 
 A practical agent skill for careful software engineering work. It helps coding agents inspect context, solve the real problem, avoid over-engineering, make minimal correct changes, and verify their work.
 
@@ -69,6 +73,10 @@ Common global install locations managed by the `skills` CLI:
 | Codex | `codex` | `~/.codex/skills/` |
 | Gemini CLI | `gemini-cli` | `~/.gemini/skills/` |
 | GitHub Copilot | `github-copilot` | `~/.copilot/skills/` |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=tuoitho/careful-coding-skill&type=Date)](https://www.star-history.com/#tuoitho/careful-coding-skill&Date)
 
 ## License
 
